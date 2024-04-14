@@ -11,4 +11,4 @@ Once it is build, run it in the same directory as the Info.plist or it won't wor
 ## Purpose
 ~~Once upon a time, I was having trouble with this, and recently came back to the idea. I am not a fan of IDE's as it feels like cheating, so this works better for me. I hope someone else who is looking into this finds it helpful. :)~~
 
-Holy cringe from child me. IDE's are awesome. Still hope this helped someone's curiosity.
+Holy cringe from child me. IDEs are awesome. Still hope this helped someone's curiosity.
